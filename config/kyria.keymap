@@ -43,6 +43,7 @@
 	&trans  &kp GRAVE &kp LBKT  &kp RBKT &kp UNDER &kp EQUAL &trans &trans       &trans  &trans &kp PLUS &kp MINUS &trans &trans   &trans    &trans 
 	                            &trans   &trans    &trans    &trans &trans       &trans  &trans &trans   &trans    &trans 
                         >;
+				sensor-bindings = <&inc_dec_kp PG_UP PG_DN &inc_dec_kp C_VOL_UP C_VOL_DN >;		
                 };		
 		
 		
