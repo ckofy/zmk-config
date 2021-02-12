@@ -19,9 +19,9 @@
 // | SHIFT |  Z  |  X  |  C   |  D   |  V   | L SHIFT | L SHIFT |  | R SHIFT |  DEL    |  K   |  H    |  ,    |  .   |   /   | RET  |
 //                     | GUI  | ALT  | LWR  |  SPACE  | L CTRL  |  |   RET   | L SHIFT | RSE  | ALT   | GUI   |
 			bindings = <
-	&kp ESC   &kp Q &kp W &kp E    &kp R    &kp T                                                &kp J &kp L    &kp U     &kp Y   &kp SEMI &kp BSPC
-	&kp TAB   &kp A &kp S &kp D    &kp F    &kp G                                                &kp M &kp N    &kp E     &kp I   &kp O    &kp SQT
-	&kp LSHFT &kp Z &kp X &kp C    &kp V    &kp B &kp BSPC  &kp LSHFT        &kp RSHFT &kp DEL   &kp K &kp H    &kp COMMA &kp DOT &kp FSLH &kp RET
+	&kp ESC   &kp Q &kp W &kp F    &kp P    &kp B                                                &kp J &kp L    &kp U     &kp Y   &kp SEMI &kp BSPC
+	&kp TAB   &kp A &kp R &kp S    &kp T    &kp G                                                &kp M &kp N    &kp E     &kp I   &kp O    &kp SQT
+	&kp LSHFT &kp Z &kp X &kp C    &kp D    &kp V &kp BSPC  &kp LSHFT        &kp RSHFT &kp DEL   &kp K &kp H    &kp COMMA &kp DOT &kp FSLH &kp RET
 	                      &kp LGUI &kp LALT &mo 1 &kp SPACE &kp LCTRL        &kp RET   &kp LSHFT &mo 2 &kp RALT &kp RGUI
 			>;
 
